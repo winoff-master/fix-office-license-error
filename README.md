@@ -15,5 +15,6 @@ If that doesn't help, try:
 cscript ospp.vbs /act
 ```
 > **Reminder:** Keep your Office and Windows updated to avoid future activation issues.
-fix-office-license-error
+---
+[Read more](https://github.com/winoff-master/)
 ---
